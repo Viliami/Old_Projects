@@ -1,0 +1,22 @@
+<SAVEDATA>
+<LEADERBOARD>
+1. Viliami = 5
+2. Alex = 4
+3. a = 2
+4. Brian = 3
+5. Aaryn = 2
+6. Jaden = 1
+7. swqag = 2
+</LEADERBOARD>
+<PLAYERSTATS>
+<USER><name>swqag</name><score>2</score><totalScore>0</totalScore><highScore>14</highScore><position>8</position><playSessions>4</playSessions></USER>
+<USER><name>Viliami</name><score>5</score><totalScore>0</totalScore><highScore>5</highScore><position>1</position><playSessions>1</playSessions></USER>
+<USER><name>Alex</name><score>4</score><totalScore>0</totalScore><highScore>4</highScore><position>2</position><playSessions>1</playSessions></USER>
+<USER><name>Brian</name><score>3</score><totalScore>0</totalScore><highScore>3</highScore><position>4</position><playSessions>1</playSessions></USER>
+<USER><name>a</name><score>2</score><totalScore>0</totalScore><highScore>3</highScore><position>3</position><playSessions>5</playSessions></USER>
+<USER><name>Aaryn</name><score>2</score><totalScore>0</totalScore><highScore>2</highScore><position>5</position><playSessions>1</playSessions></USER>
+<USER><name>Matthew</name><score>1</score><totalScore>0</totalScore><highScore>1</highScore><position>7</position><playSessions>1</playSessions></USER>
+<USER><name>Jaden</name><score>1</score><totalScore>0</totalScore><highScore>1</highScore><position>6</position><playSessions>1</playSessions></USER>
+<USER><name>sad</name><score>7</score><totalScore>0</totalScore><highScore>0</highScore><position>-1</position><playSessions>2</playSessions></USER>
+</PLAYERSTATS>
+</SAVEDATA>
